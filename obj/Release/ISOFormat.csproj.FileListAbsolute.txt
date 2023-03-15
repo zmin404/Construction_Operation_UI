@@ -1,0 +1,1276 @@
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe.config
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOFormat.pdb
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOServiceLibrary.dll
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.dll
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOBLL.dll
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISODAL.dll
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\EntityFramework.dll
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOServiceLibrary.pdb
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.pdb
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISOBLL.pdb
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\ISODAL.pdb
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\bin\Release\EntityFramework.xml
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.csprojResolveAssemblyReference.cache
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.Cache
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe.licenses
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe
+C:\Users\TTM\documents\visual studio 2012\Projects\ISOFormat\ISOFormat\obj\Release\ISOFormat.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe.config
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOFormat.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.BonusSkins.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Charts.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Data.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOService_API.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOBLL.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISODAL.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\EntityFramework.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOService_API.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOService_API.dll.config
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISOBLL.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISODAL.pdb
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ISODAL.dll.config
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\EntityFramework.xml
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe.licenses
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe
+D:\ALL OFFICE Project File (C#)\ISOFormat\ISOFormat\obj\Release\ISOFormat.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe.config
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOFormat.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.dll
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOService_API.dll
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOBLL.dll
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISODAL.dll
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\EntityFramework.dll
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOService_API.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISOBLL.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\ISODAL.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\bin\Release\EntityFramework.xml
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe.licenses
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOFormat.exe.config
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOFormat.exe
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOFormat.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.BonusSkins.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Charts.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Data.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Utils.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOServiceVO.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOService_API.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOBLL.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISODAL.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\EntityFramework.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOServiceVO.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOService_API.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOService_API.dll.config
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISOBLL.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISODAL.pdb
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ISODAL.dll.config
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\EntityFramework.xml
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.exe.licenses
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.exe
+I:\ABW Project\ISO Format\ISOFormat(Without PDF)\ISOFormat\obj\Release\ISOFormat.pdb
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.csprojResolveAssemblyReference.cache
+D:\ABW-TTM-Record\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe.config
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOFormat.exe
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOFormat.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOService_API.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOBLL.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISODAL.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\EntityFramework.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOServiceVO.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOService_API.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOBLL.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISODAL.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\EntityFramework.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.Cache
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe.licenses
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.exe
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.pdb
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.BonusSkins.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Charts.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Data.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Drawing.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISOService_API.dll.config
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ISODAL.dll.config
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.Report.DailyJobActualAssignmentXtraReport.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.UIForm.PDFViewerForm.resources
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+D:\ABWTTMRecord\ISOFormat\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+I:\ABW Project\ISO Format\ISOFormat By TDP\ISOFormat\bin\Release\ISOFormat.exe.config
+I:\ABW Project\ISO Format\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.exe
+I:\ABW Project\ISO Format\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.pdb
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.DailyJobActualAssignmentXtraReport.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.PDFViewerForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.exe.licenses
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.exe
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOFormat.exe.config
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOFormat.exe
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOFormat.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOServiceVO.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOService_API.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOBLL.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISODAL.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\EntityFramework.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOServiceVO.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOService_API.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOService_API.dll.config
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISOBLL.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISODAL.pdb
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ISODAL.dll.config
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\EntityFramework.xml
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+C:\ISOFormat By TDP\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.exe.config
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.exe
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.pdb
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.BonusSkins.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Charts.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Data.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Images.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Drawing.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOServiceVO.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOBLL.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\EntityFramework.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOServiceVO.pdb
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.pdb
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.dll.config
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOBLL.pdb
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.pdb
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.dll.config
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\EntityFramework.xml
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.DailyJobActualAssignmentXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PDFViewerForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.exe.licenses
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.exe
+I:\ABW Project\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.AssemblyReference.cache
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.MainForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.PrintRibbonControllerResources.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Properties.Resources.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.DailyJobActualAssignmentXtraReport.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.DailyJobAssignmentXtraReport1.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.MonthlyOperationXtraReport.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.OORXtraReport.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.OperationOrderXtraReport.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.ReportViewerForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.Report.WeeklyOperationXtraReport.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.BuildingTypeForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOCloudSystem.LogInForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.MasterSchedulePDFForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.NameOfWorkForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.OperationOrderRegForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PDFViewerForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonAndSiteForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.PersonTypeForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.SiteForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.UserForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.UIForm.UserRoleForm.resources
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.GenerateResource.cache
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.exe.licenses
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.exe
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.exe.config
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.exe
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOFormat.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOServiceVO.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOBLL.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\EntityFramework.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOServiceVO.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOService_API.dll.config
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISOBLL.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.pdb
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ISODAL.dll.config
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\EntityFramework.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.CoreCompileInputs.cache
+C:\ISO Format\ISOFormat Latest\ISOFormat\obj\Release\ISOFormat.csproj.CopyComplete
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.BonusSkins.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Charts.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.CodeParser.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Data.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Images.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Drawing.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Extensions.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Data.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Office.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Pdf.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.PivotGrid.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Printing.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Utils.v13.2.UI.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraBars.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraCharts.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraEditors.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraGrid.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraLayout.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPdfViewer.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraReports.v13.2.Extensions.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraPivotGrid.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.DataAccess.v13.2.UI.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.Xpo.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\DevExpress.XtraWizard.v13.2.xml
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraPivotGrid.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.DataAccess.v13.2.UI.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\de\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\es\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ja\DevExpress.XtraWizard.v13.2.resources.dll
+C:\ISO Format\ISOFormat Latest\ISOFormat\bin\Release\ru\DevExpress.XtraWizard.v13.2.resources.dll

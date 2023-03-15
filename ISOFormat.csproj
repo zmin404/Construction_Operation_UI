@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8348F634-D7E4-4082-BB80-3DC85E8FA780}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ISOFormat</RootNamespace>
+    <AssemblyName>ISOFormat</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AS-Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.2" />
+    <Reference Include="DevExpress.Charts.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2" />
+    <Reference Include="DevExpress.Office.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v13.2.Drawing, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.2.Core, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.2" />
+    <Reference Include="DevExpress.Sparkline.v13.2.Core" />
+    <Reference Include="DevExpress.Utils.v13.2.UI, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.Wizard, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.2" />
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2.Extensions, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.2, Version=13.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChannelFactory.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\DailyJobActualAssignmentXtraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\DailyJobActualAssignmentXtraReport.designer.cs">
+      <DependentUpon>DailyJobActualAssignmentXtraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DailyJobAssignmentXtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\DailyJobAssignmentXtraReport1.designer.cs">
+      <DependentUpon>DailyJobAssignmentXtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\MonthlyOperationXtraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\MonthlyOperationXtraReport.Designer.cs">
+      <DependentUpon>MonthlyOperationXtraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\OORXtraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\OORXtraReport.Designer.cs">
+      <DependentUpon>OORXtraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\OperationOrderXtraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\OperationOrderXtraReport.Designer.cs">
+      <DependentUpon>OperationOrderXtraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportViewerForm.Designer.cs">
+      <DependentUpon>ReportViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\WeeklyOperationXtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\WeeklyOperationXtraReport1.designer.cs">
+      <DependentUpon>WeeklyOperationXtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\BuildingTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\BuildingTypeForm.Designer.cs">
+      <DependentUpon>BuildingTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\LogInForm.designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\MasterSchedulePDFForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\MasterSchedulePDFForm.Designer.cs">
+      <DependentUpon>MasterSchedulePDFForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\NameOfWorkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\NameOfWorkForm.designer.cs">
+      <DependentUpon>NameOfWorkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\OperationOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\OperationOrderForm.designer.cs">
+      <DependentUpon>OperationOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\OperationOrderRegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\OperationOrderRegForm.Designer.cs">
+      <DependentUpon>OperationOrderRegForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\PDFViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\PDFViewerForm.Designer.cs">
+      <DependentUpon>PDFViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\PersonAndSiteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\PersonAndSiteForm.Designer.cs">
+      <DependentUpon>PersonAndSiteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\PersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\PersonForm.Designer.cs">
+      <DependentUpon>PersonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\PersonTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\PersonTypeForm.designer.cs">
+      <DependentUpon>PersonTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\SiteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\SiteForm.Designer.cs">
+      <DependentUpon>SiteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForm\UserRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForm\UserRoleForm.Designer.cs">
+      <DependentUpon>UserRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\DailyJobActualAssignmentXtraReport.resx">
+      <DependentUpon>DailyJobActualAssignmentXtraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\DailyJobAssignmentXtraReport1.resx">
+      <DependentUpon>DailyJobAssignmentXtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\MonthlyOperationXtraReport.resx">
+      <DependentUpon>MonthlyOperationXtraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\OORXtraReport.resx">
+      <DependentUpon>OORXtraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\OperationOrderXtraReport.resx">
+      <DependentUpon>OperationOrderXtraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportViewerForm.resx">
+      <DependentUpon>ReportViewerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\WeeklyOperationXtraReport1.resx">
+      <DependentUpon>WeeklyOperationXtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\BuildingTypeForm.resx">
+      <DependentUpon>BuildingTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\MasterSchedulePDFForm.resx">
+      <DependentUpon>MasterSchedulePDFForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\NameOfWorkForm.resx">
+      <DependentUpon>NameOfWorkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\OperationOrderForm.resx">
+      <DependentUpon>OperationOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\OperationOrderRegForm.resx">
+      <DependentUpon>OperationOrderRegForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\PDFViewerForm.resx">
+      <DependentUpon>PDFViewerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\PersonAndSiteForm.resx">
+      <DependentUpon>PersonAndSiteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\PersonForm.resx">
+      <DependentUpon>PersonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\PersonTypeForm.resx">
+      <DependentUpon>PersonTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\SiteForm.resx">
+      <DependentUpon>SiteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForm\UserRoleForm.resx">
+      <DependentUpon>UserRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\ISOServiceVO.ActualDateVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.BuildingTypeVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.ContractPDFVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.DailyPlanDetailVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.DailyPlanVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.FormMenuVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.LabourTypeVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MActualDateVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MasterSchedulePDFVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MonthlyPlanDetailVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MonthlyPlanSummaryVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MonthlyPlanVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.MPlanDateVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.NameOfWorkVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.OperationOrderRegVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.OperationOrderVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.OPTypeVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.PairVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.PersonAndSiteVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.PersonTypeVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.PersonVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.PlanDateVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.ResponsibilityTypeVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.SiteVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.SOPMeetingPDFVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.UserRoleVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.UserVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.WeatherVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.WeeklyPlanDetailVO.datasource" />
+    <None Include="Properties\DataSources\ISOServiceVO.WeeklyPlanVO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ISOServiceVO\ISOServiceVO.csproj">
+      <Project>{78e12255-0f55-4182-8726-4df4d1e5d5bc}</Project>
+      <Name>ISOServiceVO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ISOService_API\ISOService_API.csproj">
+      <Project>{07d54a39-da40-4fd9-82ea-065a0b799d0f}</Project>
+      <Name>ISOService_API</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS-Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AS-Logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
